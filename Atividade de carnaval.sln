@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade de carnaval", "Atividade de carnaval\Atividade de carnaval.csproj", "{AE8A042F-8A14-471E-BE85-5E087075F12D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade2", "Atividade2\Atividade2.csproj", "{D0445B16-C601-44BC-AFA6-48C8E624F4B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE8A042F-8A14-471E-BE85-5E087075F12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE8A042F-8A14-471E-BE85-5E087075F12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE8A042F-8A14-471E-BE85-5E087075F12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0445B16-C601-44BC-AFA6-48C8E624F4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0445B16-C601-44BC-AFA6-48C8E624F4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0445B16-C601-44BC-AFA6-48C8E624F4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0445B16-C601-44BC-AFA6-48C8E624F4B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
